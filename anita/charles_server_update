@@ -1,8 +1,0 @@
-
-tail -f /var/log/odoo/odoo-server.log
-
-
-
-
-Type a message
-
